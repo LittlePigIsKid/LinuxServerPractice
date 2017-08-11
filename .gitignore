@@ -3,3 +3,5 @@ cmake-build-debug/
 foo.out
 *.out
 *.swp
+foo
+server
